@@ -10,7 +10,7 @@ Let’s connect and see what cool things we can create together!
 
 ## 🚀 Current Project
 
-I’m currently working on **Django Dharma**, an open source project designed to simplify running checks on Django models. If you’re interested in data quality and Django application optimization, check it out [here](https://github.com/tabiva/django-dharma)!!
+I’m currently working on **Django Dharma**, an open source project designed to simplify running checks on Django models. If you’re interested in data quality and Django application optimization, check it out [here](https://github.com/tabiva/django_dharma)!!
 
 ## 🌟 Interests
 
