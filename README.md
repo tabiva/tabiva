@@ -2,7 +2,11 @@
 
 A passionate Software Developer with a love for technology and innovation.
 
-With experience in **Python, Django, Vue, and Java**, I focus on creating software solutions that not only solve problems but also enhance efficiency and user experience.
+I’ve been hooked on computers since I was 4 years old, and my love for coding has only grown since then. I’ve seen tech trends come and go, and I’m always excited to discover new ways to tackle challenges.
+
+I’m all about exploring new tools, languages, and frameworks, and I love working with people from all walks of life. There’s always something new to learn and new perspectives to gain.
+
+Let’s connect and see what cool things we can create together!
 
 ## 🚀 Current Project
 
